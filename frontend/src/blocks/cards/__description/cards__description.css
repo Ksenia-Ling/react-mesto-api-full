@@ -1,0 +1,8 @@
+.cards__description {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 25px 15px 31px 21px;
+    position: relative;
+}

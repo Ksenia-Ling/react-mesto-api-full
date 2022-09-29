@@ -1,0 +1,19 @@
+.profile__user-data {
+   margin: 0;
+   padding-right: 18px;
+   box-sizing: border-box;
+   max-width: calc(295px + 18px);
+}
+
+@media all and (max-width: 680px) {
+   .profile__user-data {
+      max-width: calc(100% - 21px);
+   }
+}
+
+@media all and (max-width: 320px) {
+   .profile__user-data {
+      max-width: calc(100% - 18px);
+      padding-right: 10px;
+   }
+}

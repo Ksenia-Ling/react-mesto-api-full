@@ -1,0 +1,9 @@
+.popup__checkin-tooltip {
+    font-family: "Inter", "Arial", sans-serif;
+    width: 358px;
+    min-height: 58px;
+    font-weight: 900;
+    font-size: 24px;
+    text-align: center;
+    margin: 32px 0 24px;
+}

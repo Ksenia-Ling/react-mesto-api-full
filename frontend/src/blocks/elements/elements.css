@@ -1,0 +1,11 @@
+.elements {
+    max-width: 880px;
+    margin: 0 auto 67px;
+}
+
+@media all and (max-width: 880px) {
+    .elements {
+        max-width: calc(100% - 19px * 2);
+        margin-bottom: 48px;
+    }
+}

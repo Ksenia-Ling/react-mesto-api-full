@@ -1,0 +1,10 @@
+.header__container_opened {
+    max-width: 880px;
+    height: 97px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 26px;
+    padding: 0;
+    border-bottom: 1px solid #545454 0.7;
+}

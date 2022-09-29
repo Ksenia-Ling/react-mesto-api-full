@@ -1,0 +1,11 @@
+.login {
+    min-height: 430px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    max-width: 360px;
+    color: white;
+    margin: auto;
+    padding-top: 60px;
+    align-items: center;
+}
