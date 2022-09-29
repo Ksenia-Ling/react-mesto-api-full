@@ -85,7 +85,8 @@ class Api {
 }
 
 export const api = new Api({
-  url: 'https://api.mesto.ksenia-ling.nomoredomains.club',
+  // url: 'https://api.mesto.ksenia-ling.nomoredomains.club',
+  url: 'http://api.mesto.ksenia-ling.nomorepartiesxyz.ru',
   // url: 'http://localhost:4000',
   headers: {
     'Content-Type': 'application/json'
