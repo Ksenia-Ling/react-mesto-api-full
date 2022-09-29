@@ -3,8 +3,8 @@ const allowedCors = [
   'http://mesto.ksenia-ling.nomoredomains.club',
   'https://api.mesto.ksenia-ling.nomoredomains.club',
   'http://api.mesto.ksenia-ling.nomoredomains.club',
-  'http://api.mesto.ksenia-ling.nomorepartiesxyz.ru',
-  'http://mesto.ksenia-ling.nomorepartiesxyz.ru',
+  // 'http://api.mesto.ksenia-ling.nomorepartiesxyz.ru',
+  // 'http://mesto.ksenia-ling.nomorepartiesxyz.ru',
   'http://localhost:3000',
   'http://localhost:4000',
 ];

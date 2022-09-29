@@ -1,6 +1,6 @@
 // export const BASE_URL = 'http://localhost:4000';
-export const BASE_URL = 'http://api.mesto.ksenia-ling.nomorepartiesxyz.ru'
-// export const BASE_URL = 'https://api.mesto.ksenia-ling.nomoredomains.club'
+// export const BASE_URL = 'http://api.mesto.ksenia-ling.nomorepartiesxyz.ru'
+export const BASE_URL = 'https://api.mesto.ksenia-ling.nomoredomains.club'
 
 
 const checkResponce = (response) =>
