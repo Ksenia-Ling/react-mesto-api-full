@@ -91,7 +91,7 @@ function App() {
     function handleLogin(info) {
         auth
             .authorize(info)
-            .then((info) => {
+            .then((res) => {
                 localStorage.setItem('loggedIn', 'true');
                 setEmail(info.email);
                 setIsLoggedIn(true);
